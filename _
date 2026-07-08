@@ -1,0 +1,30 @@
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# Database (auto-generated)
+data/pollution_db.sqlite
+
+# Embeddings (auto-generated)
+embeddings/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
